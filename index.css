@@ -1,0 +1,122 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css");
+
+.section1 {
+    background: #FFF2F3;
+
+}
+
+.section0 {
+    background: #FFF2F3;
+
+}
+
+.img-1 {
+    width: 100%;
+}
+
+.firstst-col {
+
+    margin-top: 5rem;
+}
+
+.line {
+    height: 7px;
+    width: 94px;
+    background: #E74040;
+
+}
+
+.vdcard {
+    margin-right: 10px;
+}
+
+.line2 {
+    height: 2px;
+    width: 50px;
+    background: #E74040;
+}
+
+.section3 {
+    background: #FFFFFF;
+
+}
+
+.girl-img {
+    Width: 400px;
+
+}
+
+.sect4-colmn2 {
+    margin-top: 8rem;
+
+}
+
+.section4 {
+    margin-top: 8rem;
+}
+
+.section5 {
+    margin-top: 8rem;
+}
+
+.section6 {
+    margin-top: 8rem;
+
+}
+
+.section7 {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
+
+.Testimonials {
+    border-radius: 50%;
+}
+
+.section6-card {
+    border: none;
+
+}
+
+.section6-row-2 {
+    text-align: center;
+}
+
+.section7-card-image {
+    border-top-right-radius: 7%;
+    border-top-left-radius: 7%;
+}
+
+.section7-card {
+    border-radius: 7%;
+    margin-right: 2rem;
+    box-shadow: 0px 13px 19px 0px #00000012;
+
+}
+
+.social-media-icons {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+}
+
+.social-media-icons span {
+    width: 24px;
+    height: 24px;
+
+}
+
+.logo-text {
+    font-weight: bolder;
+
+}
+
+.nav-links {
+    font-size: 14px;
+}
+
+.background-green {
+    background-color: white;
+    background-color: rgb(8, 240, 47);
+}
